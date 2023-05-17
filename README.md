@@ -9,4 +9,5 @@ Esta é uma Landing Page de arquitetura do curso de Tecnologia no módulo base d
 # 🗂️  Acesso ao projeto
 
 Link do site disponibilizado:  [Aqui](https://brilliant-raindrop-6e3e3b.netlify.app/)
+
 Link da planilha de registro de informações:  [Aqui](https://docs.google.com/spreadsheets/d/13lzmaCRpXRvpZXHKqjabnTwkMWPx7T9y4kY4x6rtwK8/edit#gid=0)
