@@ -1,4 +1,4 @@
-## Landing Page Arquitetura
+#  Landing Page Arquitetura
 
 Esta é uma Landing Page de arquitetura do curso de Tecnologia no módulo base da escola DNC.
 
